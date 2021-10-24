@@ -1,0 +1,14 @@
+.CustomDatePicker{
+    display: inline-flex;
+}
+.CustomDatePicker>*{
+    padding-right: 20px;
+}
+.Pudding{
+    padding: 10px;
+}
+.datepicker{
+    height: 40px
+    !important;
+    border-bottom: red !important;
+}

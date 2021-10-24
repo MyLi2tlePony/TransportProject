@@ -1,0 +1,79 @@
+
+/*html {
+  
+  //background-color: #1e1e1e;
+  //font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  //color: white;
+}*/
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 900px;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.acc-header
+{
+  margin-left: 20px;
+}
+
+.container{
+  padding-top: 10px;
+}
+.analyticContainer
+{  
+  /* padding-top: 10px; */
+}
+
+.comboboxes {
+  display: inline-block;
+  }
+  
+  .comboboxLabel {
+  text-align: left;
+  height: 10px;
+  font-size: 18px;
+  }
+  .graphyc {
+  margin-top: 15px;
+  display: inline-block;
+  }
+  
+  .firstCombobox {
+  width: 20%;
+  float: left;
+  }
+  
+  .combobox {
+  width: 215px;
+  float: left;
+  }
+  .dropdown-container {
+    border: 1px solid #767676 !important;
+    border-radius: 2px !important;
+  }
+  .pipisa {
+    height: 40px !important;
+  }
+  
+.asdasd{
+  margin-top: 10px;
+}
+.asdasdasdasd
+{
+
+  margin-top: 10px;
+  border: 1px solid rgba(0,0,0,.125) !important;
+}
